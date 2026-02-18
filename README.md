@@ -4,6 +4,7 @@ This repository contains my daily Java practice focused on Object-Oriented Progr
 The goal of this repository is to strengthen my understanding of OOP principles and improve my problem-solving skills through consistent hands-on coding.
 
 🚀 Topics Covered
+
 1️⃣ OOP Concepts
 Inheritance (Single, Multilevel, Hierarchical)
 Polymorphism (Method Overloading & Method Overriding)
@@ -32,16 +33,6 @@ Throws keyword
 
 5️⃣ File Handling
 Reading & Writing files
-
-📂 Project Structure
-java-oops-practice/
-│
-├── inheritance/
-├── polymorphism/
-├── abstraction/
-├── collections/
-├── exception-handling/
-└── file-handling/
 
 🎯 Purpose
 
