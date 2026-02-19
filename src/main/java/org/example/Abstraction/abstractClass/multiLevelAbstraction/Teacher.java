@@ -1,4 +1,4 @@
-package org.example.Abstraction;
+package org.example.Abstraction.abstractClass.multiLevelAbstraction;
 
 public abstract class Teacher {
 
@@ -12,7 +12,3 @@ public abstract class Teacher {
 
     }
 }
-
-
-
-

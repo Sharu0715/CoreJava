@@ -1,4 +1,4 @@
-package org.example.Abstraction;
+package org.example.Abstraction.abstractClass.multiLevelAbstraction;
 
 public abstract  class Student extends Teacher {
     int age;
@@ -7,7 +7,7 @@ public abstract  class Student extends Teacher {
         System.out.println("Student is studying");
     }
 
-     abstract  void test();
+    abstract  void test();
 
     abstract void loginStudent(int age);
 
@@ -16,5 +16,6 @@ public abstract  class Student extends Teacher {
         System.out.println("Student age is " + age);
 
     }
+
 
 }

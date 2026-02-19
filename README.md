@@ -7,8 +7,8 @@ The goal of this repository is to strengthen my understanding of OOP principles 
 
 1️⃣ OOP Concepts  
 Inheritance (Single, Multilevel, Hierarchical)   
-Polymorphism (Method Overloading & Method Overriding)
-Abstraction (Abstract Classes & Interfaces)
+Polymorphism (Method Overloading & Method Overriding)  
+Abstraction (Abstract Classes & Interfaces)  
 Encapsulation
 
 2️⃣ Core Java  
